@@ -1,0 +1,8 @@
+name: Loteria
+version: 1.0
+main: me.CerteX.loteria.Loteria
+commands:
+    loteria:
+        permission: loteria.give
+    loteriainfo:
+        permission: loteria.info

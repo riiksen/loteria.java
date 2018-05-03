@@ -1,0 +1,46 @@
+Loteria:
+  Items:
+    los: "399:5 1 name:&6Loteria lore:U¿yj_tego_przedmiotu_na_wyspie&nl&3Aby_nikt_nie_zabra³_twoich_przedmiotów"
+    drop: 
+      - "138 1"
+      - "52 1"
+      - "264 16"
+      - "264 32"
+      - "322:1 8"
+      - "310 1 protection:3 unbreaking:2"
+      - "311 1 protection:3 unbreaking:2"
+      - "312 1 protection:3 unbreaking:2"
+      - "313 1 protection:3 unbreaking:2"
+      - "306 1 protection:3 unbreaking:2"
+      - "307 1 protection:3 unbreaking:2"
+      - "308 1 protection:3 unbreaking:2"
+      - "309 1 protection:3 unbreaking:2"
+      - "278 1 efficiency:4 durability:3 fortune:1"
+      - "384 64"
+      - "322 32"
+      - "268 1"
+      - "331 32"
+      - "270 1 efficiency:6 durability:7 fortune:1"
+      - "266 64"
+    chance:
+      - 10000
+      - 9600
+      - 9300
+      - 7800
+      - 7000
+      - 6500
+      - 6375
+      - 6250
+      - 6125
+      - 6000
+      - 5875
+      - 5750
+      - 5625
+      - 5500
+      - 5250
+      - 4250
+      - 3000
+      - 2500
+      - 2000
+      - 1500
+      - 0
